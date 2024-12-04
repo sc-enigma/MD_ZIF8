@@ -28,30 +28,30 @@
 PDB                   3
 [ atoms ]
 ;   nr       type  resnr residue  atom   cgnr     charge       mass  
-     1   pdbf_800      1    PDB   CT0      1    -0.2339    12.0110 
-     2   pdbf_801      1    PDB   CT1      1    -0.1352    12.0110 
-     3   pdbf_802      1    PDB   CA2      1    -0.0851    12.0110 
-     4   pdbf_803      1    PDB   CA3      1     -0.133    12.0110 
-     5   pdbf_804      1    PDB   CA4      1    -0.1331    12.0110 
-     6   pdbf_805      1    PDB   CA5      1     -0.084    12.0110 
-     7   pdbf_806      1    PDB   CT6      1    -0.1354    12.0110 
-     8   pdbf_807      1    PDB   CT7      1    -0.2322    12.0110 
-     9   pdbf_808      1    PDB   CA8      1    -0.1326    12.0110 
-    10   pdbf_809      1    PDB   CA9      1    -0.1336    12.0110 
-    11   pdbf_810      1    PDB   HCA      1     0.0841     1.0080 
-    12   pdbf_811      1    PDB   HCB      1     0.0841     1.0080 
-    13   pdbf_812      1    PDB   HCC      1     0.0841     1.0080 
-    14   pdbf_813      1    PDB   HCD      1      0.096     1.0080 
-    15   pdbf_814      1    PDB   HCE      1      0.096     1.0080 
-    16   pdbf_815      1    PDB   HAF      1     0.1375     1.0080 
-    17   pdbf_816      1    PDB   HAG      1     0.1374     1.0080 
-    18   pdbf_817      1    PDB   HCH      1     0.0951     1.0080 
-    19   pdbf_818      1    PDB   HCI      1     0.0951     1.0080 
-    20   pdbf_819      1    PDB   HCJ      1     0.0842     1.0080 
-    21   pdbf_820      1    PDB   HCK      1     0.0842     1.0080 
-    22   pdbf_821      1    PDB   HCM      1     0.0842     1.0080 
-    23   pdbf_822      1    PDB   HAN      1     0.1374     1.0080 
-    24   pdbf_823      1    PDB   HAO      1     0.1387     1.0080 
+     1   pdbf_800      1    PDB   CT0      1     0.1219    12.0110
+     2   pdbf_801      1    PDB   CT1      1     0.0316    12.0110
+     3   pdbf_802      1    PDB   CA2      1     0.0822    12.0110
+     4   pdbf_803      1    PDB   CA3      1    -0.1578    12.0110
+     5   pdbf_804      1    PDB   CA4      1    -0.1578    12.0110
+     6   pdbf_805      1    PDB   CA5      1     0.0822    12.0110
+     7   pdbf_806      1    PDB   CT6      1     0.0316    12.0110
+     8   pdbf_807      1    PDB   CT7      1     0.1219    12.0110
+     9   pdbf_808      1    PDB   CA8      1    -0.1578    12.0110
+    10   pdbf_809      1    PDB   CA9      1    -0.1578    12.0110
+    11   pdbf_810      1    PDB   HCA      1    -0.0365     1.0080
+    12   pdbf_811      1    PDB   HCB      1    -0.0365     1.0080
+    13   pdbf_812      1    PDB   HCC      1    -0.0365     1.0080
+    14   pdbf_813      1    PDB   HCD      1    -0.0120     1.0080
+    15   pdbf_814      1    PDB   HCE      1    -0.0120     1.0080
+    16   pdbf_815      1    PDB   HAF      1     0.1067     1.0080
+    17   pdbf_816      1    PDB   HAG      1     0.1067     1.0080
+    18   pdbf_817      1    PDB   HCH      1    -0.0120     1.0080
+    19   pdbf_818      1    PDB   HCI      1    -0.0120     1.0080
+    20   pdbf_819      1    PDB   HCJ      1    -0.0365     1.0080
+    21   pdbf_820      1    PDB   HCK      1    -0.0365     1.0080
+    22   pdbf_821      1    PDB   HCM      1    -0.0365     1.0080
+    23   pdbf_822      1    PDB   HAN      1     0.1067     1.0080
+    24   pdbf_823      1    PDB   HAO      1     0.1067     1.0080
 [ bonds ]
     2     1     1      0.1529 224262.400
     3     2     1      0.1510 265265.600

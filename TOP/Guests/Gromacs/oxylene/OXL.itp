@@ -22,24 +22,24 @@
 OXL                   3
 [ atoms ]
 ;   nr       type  resnr residue  atom   cgnr     charge       mass  
-     1   oxlf_800      1    OXL   CT0      1    -0.1958    12.0110 
-     2   oxlf_801      1    OXL   CA1      1    -0.0798    12.0110 
-     3   oxlf_802      1    OXL   CA2      1    -0.1452    12.0110 
-     4   oxlf_803      1    OXL   CA3      1    -0.1502    12.0110 
-     5   oxlf_804      1    OXL   CA4      1    -0.1502    12.0110 
-     6   oxlf_805      1    OXL   CA5      1    -0.1445    12.0110 
-     7   oxlf_806      1    OXL   CA6      1    -0.0794    12.0110 
-     8   oxlf_807      1    OXL   CT7      1    -0.1954    12.0110 
-     9   oxlf_808      1    OXL   HC8      1     0.0923     1.0080 
-    10   oxlf_809      1    OXL   HC9      1     0.0923     1.0080 
-    11   oxlf_810      1    OXL   HCA      1     0.0923     1.0080 
-    12   oxlf_811      1    OXL   HAB      1     0.1468     1.0080 
-    13   oxlf_812      1    OXL   HAC      1     0.1466     1.0080 
-    14   oxlf_813      1    OXL   HAD      1     0.1468     1.0080 
-    15   oxlf_814      1    OXL   HAE      1     0.1462     1.0080 
-    16   oxlf_815      1    OXL   HCF      1     0.0924     1.0080 
-    17   oxlf_816      1    OXL   HCG      1     0.0924     1.0080 
-    18   oxlf_817      1    OXL   HCH      1     0.0924     1.0080 
+     1   oxlf_800      1    OXL   CT0      1    -0.2289    12.0110
+     2   oxlf_801      1    OXL   CA1      1     0.1093    12.0110
+     3   oxlf_802      1    OXL   CA2      1    -0.1849    12.0110
+     4   oxlf_803      1    OXL   CA3      1    -0.0925    12.0110
+     5   oxlf_804      1    OXL   CA4      1    -0.0925    12.0110
+     6   oxlf_805      1    OXL   CA5      1    -0.1849    12.0110
+     7   oxlf_806      1    OXL   CA6      1     0.1093    12.0110
+     8   oxlf_807      1    OXL   CT7      1    -0.2289    12.0110
+     9   oxlf_808      1    OXL   HC8      1     0.0676     1.0080
+    10   oxlf_809      1    OXL   HC9      1     0.0676     1.0080
+    11   oxlf_810      1    OXL   HCA      1     0.0676     1.0080
+    12   oxlf_811      1    OXL   HAB      1     0.1073     1.0080
+    13   oxlf_812      1    OXL   HAC      1     0.0869     1.0080
+    14   oxlf_813      1    OXL   HAD      1     0.0869     1.0080
+    15   oxlf_814      1    OXL   HAE      1     0.1073     1.0080
+    16   oxlf_815      1    OXL   HCF      1     0.0676     1.0080
+    17   oxlf_816      1    OXL   HCG      1     0.0676     1.0080
+    18   oxlf_817      1    OXL   HCH      1     0.0676     1.0080
 [ bonds ]
     2     1     1      0.1510 265265.600
     3     2     1      0.1400 392459.200

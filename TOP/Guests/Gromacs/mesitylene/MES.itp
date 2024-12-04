@@ -25,27 +25,27 @@
 MES                   3
 [ atoms ]
 ;   nr       type  resnr residue  atom   cgnr     charge       mass  
-     1   mesf_800      1    MES   CT0      1    -0.1971    12.0110 
-     2   mesf_801      1    MES   CA1      1    -0.0753    12.0110 
-     3   mesf_802      1    MES   CA2      1    -0.1504    12.0110 
-     4   mesf_803      1    MES   CA3      1    -0.0757    12.0110 
-     5   mesf_804      1    MES   CT4      1    -0.1970    12.0110 
-     6   mesf_805      1    MES   CA5      1    -0.1528    12.0110 
-     7   mesf_806      1    MES   CA6      1    -0.0743    12.0110 
-     8   mesf_807      1    MES   CT7      1    -0.1972    12.0110 
-     9   mesf_808      1    MES   CA8      1    -0.1551    12.0110 
-    10   mesf_809      1    MES   HC9      1     0.0928     1.0080 
-    11   mesf_810      1    MES   HCA      1     0.0928     1.0080 
-    12   mesf_811      1    MES   HCB      1     0.0928     1.0080 
-    13   mesf_812      1    MES   HAC      1     0.1467     1.0080 
-    14   mesf_813      1    MES   HCD      1     0.0928     1.0080 
-    15   mesf_814      1    MES   HCE      1     0.0928     1.0080 
-    16   mesf_815      1    MES   HCF      1     0.0928     1.0080 
-    17   mesf_816      1    MES   HAG      1     0.1466     1.0080 
-    18   mesf_817      1    MES   HCH      1     0.0928     1.0080 
-    19   mesf_818      1    MES   HCI      1     0.0928     1.0080 
-    20   mesf_819      1    MES   HCJ      1     0.0928     1.0080 
-    21   mesf_820      1    MES   HAK      1     0.1466     1.0080 
+     1   mesf_800      1    MES   CT0      1    -0.1985    12.0110
+     2   mesf_801      1    MES   CA1      1     0.2824    12.0110
+     3   mesf_802      1    MES   CA2      1    -0.3895    12.0110
+     4   mesf_803      1    MES   CA3      1    0.28225    12.0110
+     5   mesf_804      1    MES   CT4      1    -0.2023    12.0110
+     6   mesf_805      1    MES   CA5      1    -0.3897    12.0110
+     7   mesf_806      1    MES   CA6      1    0.28225    12.0110
+     8   mesf_807      1    MES   CT7      1    -0.2023    12.0110
+     9   mesf_808      1    MES   CA8      1    -0.3895    12.0110
+    10   mesf_809      1    MES   HC9      1     0.0541     1.0080
+    11   mesf_810      1    MES   HCA      1     0.0541     1.0080
+    12   mesf_811      1    MES   HCB      1     0.0541     1.0080
+    13   mesf_812      1    MES   HAC      1     0.1438     1.0080
+    14   mesf_813      1    MES   HCD      1     0.0704     1.0080
+    15   mesf_814      1    MES   HCE      1     0.0704     1.0080
+    16   mesf_815      1    MES   HCF      1     0.0704     1.0080
+    17   mesf_816      1    MES   HAG      1     0.0704     1.0080
+    18   mesf_817      1    MES   HCH      1     0.0704     1.0080
+    19   mesf_818      1    MES   HCI      1     0.0704     1.0080
+    20   mesf_819      1    MES   HCJ      1     0.0526     1.0080
+    21   mesf_820      1    MES   HAK      1     0.1438     1.0080
 [ bonds ]
     2     1     1      0.1510 265265.600
     3     2     1      0.1400 392459.200

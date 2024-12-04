@@ -29,26 +29,26 @@
 HEX                   3
 [ atoms ]
 ;   nr       type  resnr residue  atom   cgnr     charge       mass  
-     1   hexf_800      1    HEX   CT0      1    -0.2388    12.0110 
-     2   hexf_801      1    HEX   CT1      1    -0.1793    12.0110 
-     3   hexf_802      1    HEX   CT2      1    -0.1785    12.0110 
-     4   hexf_803      1    HEX   CT3      1    -0.1785    12.0110 
-     5   hexf_804      1    HEX   CT4      1    -0.1793    12.0110 
-     6   hexf_805      1    HEX   CT5      1    -0.2387    12.0110 
-     7   hexf_806      1    HEX   HC6      1     0.0807     1.0080 
-     8   hexf_807      1    HEX   HC7      1     0.0807     1.0080 
-     9   hexf_808      1    HEX   HC8      1     0.0807     1.0080 
-    10   hexf_809      1    HEX   HC9      1     0.0881     1.0080 
-    11   hexf_810      1    HEX   HCA      1     0.0881     1.0080 
-    12   hexf_811      1    HEX   HCB      1     0.0891     1.0080 
-    13   hexf_812      1    HEX   HCC      1     0.0891     1.0080 
-    14   hexf_813      1    HEX   HCD      1     0.0891     1.0080 
-    15   hexf_814      1    HEX   HCE      1     0.0891     1.0080 
-    16   hexf_815      1    HEX   HCF      1     0.0881     1.0080 
-    17   hexf_816      1    HEX   HCG      1     0.0881     1.0080 
-    18   hexf_817      1    HEX   HCH      1     0.0807     1.0080 
-    19   hexf_818      1    HEX   HCI      1     0.0807     1.0080 
-    20   hexf_819      1    HEX   HCJ      1     0.0807     1.0080 
+     1   hexf_800      1    HEX   CT0      1    -0.1924    12.0110
+     2   hexf_801      1    HEX   CT1      1     0.2348    12.0110
+     3   hexf_802      1    HEX   CT2      1    -0.0171    12.0110
+     4   hexf_803      1    HEX   CT3      1    -0.0171    12.0110
+     5   hexf_804      1    HEX   CT4      1     0.2348    12.0110
+     6   hexf_805      1    HEX   CT5      1    -0.1924    12.0110
+     7   hexf_806      1    HEX   HC6      1     0.0355     1.0080
+     8   hexf_807      1    HEX   HC7      1     0.0355     1.0080
+     9   hexf_808      1    HEX   HC8      1     0.0355     1.0080
+    10   hexf_809      1    HEX   HC9      1    -0.0546     1.0080
+    11   hexf_810      1    HEX   HCA      1    -0.0546     1.0080
+    12   hexf_811      1    HEX   HCB      1    -0.0113     1.0080
+    13   hexf_812      1    HEX   HCC      1    -0.0113     1.0080
+    14   hexf_813      1    HEX   HCD      1    -0.0113     1.0080
+    15   hexf_814      1    HEX   HCE      1    -0.0113     1.0080
+    16   hexf_815      1    HEX   HCF      1    -0.0546     1.0080
+    17   hexf_816      1    HEX   HCG      1    -0.0546     1.0080
+    18   hexf_817      1    HEX   HCH      1     0.0355     1.0080
+    19   hexf_818      1    HEX   HCI      1     0.0355     1.0080
+    20   hexf_819      1    HEX   HCJ      1     0.0355     1.0080
 [ bonds ]
     2     1     1      0.1529 224262.400
     3     2     1      0.1529 224262.400

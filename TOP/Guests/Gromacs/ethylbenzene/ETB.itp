@@ -22,24 +22,24 @@
 ETB                   3
 [ atoms ]
 ;   nr       type  resnr residue  atom   cgnr     charge       mass
-     1   etbf_800      1    ETB   CT0      1    -0.2328    12.0110 
-     2   etbf_801      1    ETB   CT1      1    -0.0796    12.0110
-     3   etbf_802      1    ETB   CA2      1    -0.0796    12.0110 
-     4   etbf_803      1    ETB   CA3      1    -0.1447    12.0110 
-     5   etbf_804      1    ETB   CA4      1    -0.1461    12.0110 
-     6   etbf_805      1    ETB   CA5      1    -0.1514    12.0110 
-     7   etbf_806      1    ETB   CA6      1    -0.1459    12.0110 
-     8   etbf_807      1    ETB   CA7      1    -0.1441    12.0110 
-     9   etbf_808      1    ETB   HC8      1     0.0845     1.0080 
-    10   etbf_809      1    ETB   HC9      1     0.0845     1.0080 
-    11   etbf_810      1    ETB   HCA      1     0.0845     1.0080 
-    12   etbf_811      1    ETB   HCB      1     0.0957     1.0080 
-    13   etbf_812      1    ETB   HCC      1     0.0957     1.0080 
-    14   etbf_813      1    ETB   HAD      1     0.1475     1.0080 
-    15   etbf_814      1    ETB   HAE      1     0.1473     1.0080 
-    16   etbf_815      1    ETB   HAF      1     0.1467     1.0080 
-    17   etbf_816      1    ETB   HAG      1     0.1467     1.0080 
-    18   etbf_817      1    ETB   HAH      1     0.1477     1.0080 
+     1   etbf_800      1    ETB   CT0      1     0.1483    12.0110
+     2   etbf_801      1    ETB   CT1      1     0.0263    12.0110
+     3   etbf_802      1    ETB   CA2      1     0.0829    12.0110
+     4   etbf_803      1    ETB   CA3      1    -0.1531    12.0110
+     5   etbf_804      1    ETB   CA4      1    -0.0800    12.0110
+     6   etbf_805      1    ETB   CA5      1    -0.0860    12.0110
+     7   etbf_806      1    ETB   CA6      1    -0.0800    12.0110
+     8   etbf_807      1    ETB   CA7      1    -0.1531    12.0110
+     9   etbf_808      1    ETB   HC8      1    -0.0296     1.0080
+    10   etbf_809      1    ETB   HC9      1    -0.0492     1.0080
+    11   etbf_810      1    ETB   HCA      1    -0.0492     1.0080
+    12   etbf_811      1    ETB   HCB      1    -0.0129     1.0080
+    13   etbf_812      1    ETB   HCC      1    -0.0129     1.0080
+    14   etbf_813      1    ETB   HAD      1     0.1038     1.0080
+    15   etbf_814      1    ETB   HAE      1     0.0802     1.0080
+    16   etbf_815      1    ETB   HAF      1     0.0805     1.0080
+    17   etbf_816      1    ETB   HAG      1     0.0802     1.0080
+    18   etbf_817      1    ETB   HAH      1     0.1038     1.0080
 [ bonds ]
     2     1     1      0.1529 224262.400
     3     2     1      0.1510 265265.600

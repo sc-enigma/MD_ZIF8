@@ -22,24 +22,24 @@
 PXL                   3
 [ atoms ]
 ;   nr       type  resnr residue  atom   cgnr     charge       mass  
-     1   pxlf_800      1    PXL   CT0      1    -0.1974    12.0110 
-     2   pxlf_801      1    PXL   CA1      1    -0.0861    12.0110 
-     3   pxlf_802      1    PXL   CA2      1    -0.1439    12.0110 
-     4   pxlf_803      1    PXL   CA3      1    -0.1438    12.0110 
-     5   pxlf_804      1    PXL   CA4      1    -0.0859    12.0110 
-     6   pxlf_805      1    PXL   CT5      1    -0.1970    12.0110 
-     7   pxlf_806      1    PXL   CA6      1    -0.1451    12.0110 
-     8   pxlf_807      1    PXL   CA7      1    -0.1452    12.0110 
-     9   pxlf_808      1    PXL   HC8      1     0.0926     1.0080 
-    10   pxlf_809      1    PXL   HC9      1     0.0926     1.0080 
-    11   pxlf_810      1    PXL   HCA      1     0.0926     1.0080 
-    12   pxlf_811      1    PXL   HAB      1     0.1474     1.0080 
-    13   pxlf_812      1    PXL   HAC      1     0.1472     1.0080 
-    14   pxlf_813      1    PXL   HCD      1     0.0926     1.0080 
-    15   pxlf_814      1    PXL   HCE      1     0.0926     1.0080 
-    16   pxlf_815      1    PXL   HCF      1     0.0926     1.0080 
-    17   pxlf_816      1    PXL   HAG      1     0.1468     1.0080 
-    18   pxlf_817      1    PXL   HAH      1     0.1474     1.0080 
+     1   pxlf_800      1    PXL   CT0      1    -0.2270    12.0110
+     2   pxlf_801      1    PXL   CA1      1     0.1841    12.0110
+     3   pxlf_802      1    PXL   CA2      1    -0.1805    12.0110
+     4   pxlf_803      1    PXL   CA3      1    -0.1805    12.0110
+     5   pxlf_804      1    PXL   CA4      1     0.1841    12.0110
+     6   pxlf_805      1    PXL   CT5      1    -0.2270    12.0110
+     7   pxlf_806      1    PXL   CA6      1    -0.1805    12.0110
+     8   pxlf_807      1    PXL   CA7      1    -0.1805    12.0110
+     9   pxlf_808      1    PXL   HC8      1     0.0627     1.0080
+    10   pxlf_809      1    PXL   HC9      1     0.0627     1.0080
+    11   pxlf_810      1    PXL   HCA      1     0.0627     1.0080
+    12   pxlf_811      1    PXL   HAB      1     0.1079     1.0080
+    13   pxlf_812      1    PXL   HAC      1     0.1079     1.0080
+    14   pxlf_813      1    PXL   HCD      1     0.0627     1.0080
+    15   pxlf_814      1    PXL   HCE      1     0.0627     1.0080
+    16   pxlf_815      1    PXL   HCF      1     0.0627     1.0080
+    17   pxlf_816      1    PXL   HAG      1     0.1079     1.0080
+    18   pxlf_817      1    PXL   HAH      1     0.1079     1.0080
 [ bonds ]
     2     1     1      0.1510 265265.600
     3     2     1      0.1400 392459.200
