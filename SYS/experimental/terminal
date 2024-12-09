@@ -1,0 +1,23 @@
+STEP 1. GEOMETRY PREPARATION ____________________________________
+
+MXL.gro
+XIF8.gro
+
+gmx_mpi editconf -f MXL.gro -o MXL.pdb
+packmol < packmol.inp
+gmx_mpi editconf -f MXL_box.pdb -o MXL_box.gro
+   7.00000   7.00000   7.00000
+
+gmx_mpi solvate -cp ZIF8.gro -cs MXL_box.gro -o ZIF8_MXL.gro
+
+STEP 2. ENERGY MINIMIZATION _____________________________________
+
+topol.top
+atomtypes_ZIF-8_Zheng.itp
+ZIF8.itp
+MXL.itp
+ZIF8_MXL_fixed.gro
+grompp_1_em.mdp
+
+gmx_mpi grompp -f grompp_1_em.mdp -c *fixed.gro -p topol.top -o em.tpr -maxwarn 1
+gmx_mpi mdrun -s em.tpr -v
