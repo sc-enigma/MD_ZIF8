@@ -1,9 +1,0 @@
-MXL.gro
-XIF8.gro
-
-gmx_mpi editconf -f MXL.gro -o MXL.pdb
-packmol < packmol.inp
-gmx_mpi editconf -f MXL_box.pdb -o MXL_box.gro
-   7.00000   7.00000   7.00000
-
-gmx_mpi solvate -cp ZIF8.gro -cs MXL_box.gro -o ZIF8_MXL.gro
