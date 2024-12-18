@@ -1,0 +1,7 @@
+tolerance 2.0
+output MXL_box.pdb
+filetype pdb
+structure MXL.pdb
+  number 400
+  inside cube 0. 0. 0. 70.
+end structure
